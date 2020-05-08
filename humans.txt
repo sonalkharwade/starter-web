@@ -7,13 +7,8 @@
 
 # THANKS
 
-<<<<<<< HEAD
-    <Sonal Kharwade >
-=======
-    <Sonal Kharwade>
->>>>>>> develop
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angulat
-    jQuery, Modernizr,AWS  
+    jQuery, Modernizr,AS  
