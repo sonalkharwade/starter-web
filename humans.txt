@@ -10,5 +10,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, Angulat
+    HTML5, CSS3, Angulat unix
     jQuery, Modernizr,AS  
