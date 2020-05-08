@@ -11,5 +11,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, Angulat
-    jQuery, Modernizr, Ajax 
+    HTML5, CSS3, Angulat, docker 
+    jQuery, Modernizr, Ajax,java 
